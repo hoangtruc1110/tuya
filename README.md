@@ -18,3 +18,4 @@ Bước 1:
     +	Kiểm tra thông tin thiết bị bằng cách gọi API.
 
 Bước 2 : Tiến hành lập trình:
+ - File smart_lock trên dùng để đổi giải mã, mã hóa mật khẩu từ xa, lấy event, đổi mật khẩu từ xa thông qua các API được Tuya cấp
