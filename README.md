@@ -8,5 +8,6 @@ Bước 1:
 •	https://github.com/tuya/tuya-connector-python.git
 
  - Dùng file này để lập trình :
-•	tuya-connector-python/example/device_control_and_mq.py
+•	tuya-connector-python/smart_lock/device_control_and_mq.py.
 •	Kiểm tra thông tin thiết bị bằng cách gọi API.
+Bước 2 : Tiến hành lập trình:
