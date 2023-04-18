@@ -4,7 +4,11 @@
 - Ngôn ngữ lập trình: Python
 
 Điều kiện: Đã cấu hình Tuya Cloud Platform, nếu chưa vui lòng đọc Doc trên Tuya
+
+
 ***Nội dung***
+
+
 Bước 1:
  - Kết nối Tuya với Python bằng cách tải về thư viện trên Github:
     	https://github.com/tuya/tuya-connector-python.git
